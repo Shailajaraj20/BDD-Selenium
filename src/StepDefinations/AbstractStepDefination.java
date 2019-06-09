@@ -23,6 +23,7 @@ public class AbstractStepDefination {
 		driver.findElement(By.name("userName")).sendKeys(us);
 		driver.findElement(By.name("password")).sendKeys(ps    );
 		driver.findElement(By.name("login")).click();
+		syste
 		
 	}
 }
